@@ -1,7 +1,10 @@
-## Hi there 👋
+## About me 👋
 
+Hello Everyone Nice to know you, My name is Fachry Akbar Putra Ediesthia. Everyone always call me Fachry<br>
+i am **informatics student** at [Upn "Veteran" Jawa Timur](https://upnjatim.ac.id/).<br>
+
+If you want to know further about me, please let me know on my [Linkedin](https://www.linkedin.com/in/fachryedies/).
 <!--
-**Fachryakbarpe/Fachryakbarpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
